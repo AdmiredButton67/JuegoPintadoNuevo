@@ -1,10 +1,6 @@
 """Paint, for drawing shapes.
 
-Exercises
-
 Luis Armando Mandujano Chávez // A01655899
-
-.
 """
 
 from turtle import *
