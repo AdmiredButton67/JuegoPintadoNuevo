@@ -1,6 +1,7 @@
 """Paint, for drawing shapes.
 
 Luis Armando Mandujano Chávez // A01655899
+Lisa Valeria Rodríguez Alanís // A01656306
 """
 
 from turtle import *
